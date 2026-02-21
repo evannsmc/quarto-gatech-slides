@@ -1,4 +1,11 @@
 # Georgia Tech Quarto RevealJS Theme
+![Georgia Tech](https://img.shields.io/badge/Brand-Georgia_Tech-%23003057?logo=google-scholar&logoColor=white)
+![RevealJS](https://img.shields.io/badge/RevealJS-Presentation_Framework-black?logo=reveal.js)
+![Install via Quarto](https://img.shields.io/badge/quarto_use-template-informational)
+![Quarto Extension](https://img.shields.io/badge/Quarto-Extension-blue?logo=quarto)
+![Typography](https://img.shields.io/badge/Typography-Roboto-blue)
+![Widescreen](https://img.shields.io/badge/Aspect_Ratio-16:9-lightgrey)
+![RevealJS Theme](https://img.shields.io/badge/RevealJS-Custom_Theme-purple)
 
 A professional Quarto extension providing Georgia Tech-branded styling for RevealJS presentations.
 
