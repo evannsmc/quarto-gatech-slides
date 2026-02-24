@@ -215,7 +215,8 @@ See [template.qmd](template.qmd) for a basic example presentation.
 
 ## Website
 
-Part of the [**evannsmc** open-source portfolio](https://www.evannsmc.com/projects) — [project page →](https://www.evannsmc.com/projects/gatech-slides)
+- [evannsmc.com](https://www.evannsmc.com)
+- [Project page](https://www.evannsmc.com/projects/gatech-slides)
 
 ## License
 
