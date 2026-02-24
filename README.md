@@ -2,6 +2,7 @@
 ![Quarto Extension](https://img.shields.io/badge/Quarto-Extension-blue?logo=quarto)
 ![Georgia Tech](https://img.shields.io/badge/Brand-Georgia_Tech-%23003057?logo=google-scholar&logoColor=white)
 ![RevealJS](https://img.shields.io/badge/RevealJS-Presentation_Framework-black?logo=reveal.js)
+[![evannsmc.com](https://img.shields.io/badge/evannsmc.com-Project%20Page-blue)](https://www.evannsmc.com/projects/gatech-slides)
 
 A professional Quarto extension providing Georgia Tech-branded styling for RevealJS presentations.
 
@@ -211,6 +212,10 @@ See [template.qmd](template.qmd) for a basic example presentation.
 ## Requirements
 
 - Quarto >= 1.7.0
+
+## Website
+
+Part of the [**evannsmc** open-source portfolio](https://www.evannsmc.com/projects) — [project page →](https://www.evannsmc.com/projects/gatech-slides)
 
 ## License
 
