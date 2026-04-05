@@ -20,7 +20,7 @@ A professional Quarto extension providing Georgia Tech-branded styling for Revea
 
 ### Option 1: Use as a Quarto template locally
 ```bash
-quarto use template evannsm/quarto-gatech-slides
+quarto use template evannsmc/quarto-gatech-slides
 ```
 
 ### Option 2: Use this repository directly
